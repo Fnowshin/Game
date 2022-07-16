@@ -15,9 +15,9 @@ body{
     border-radius: 25px;
     background-color: brown;
     position: relative;
-    left: 630px;
+    left: 660px;
     transition: transform 1s ease-out 0.3s;
 }
 .field:hover .ball{
-    transform: translate(650px, -100px);
+    transform: translate(630px, -100px);
 }
